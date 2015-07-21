@@ -1,0 +1,28 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/hackerrank/rspec-project/lib/burger.rb": [
+        1,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1437421140
+  }
+}
