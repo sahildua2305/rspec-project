@@ -36,7 +36,6 @@ require_all('../lib')
 # Dir[__dir__ + '/../lib/*.rb'].each {|file| require file } # WORKS
 # require_relative '../lib' # Not working
 
-
 variables_hash = Hash.new
 
 methods_list = Burger.instance_methods(false)
@@ -81,7 +80,6 @@ RSpec.configure do |config|
 			# var_name = var_name.to_sym
 			p var_name
 			p eval(var_name)
-			# puts var_name.to_sym
 		end
 	end
 end
